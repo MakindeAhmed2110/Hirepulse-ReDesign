@@ -808,12 +808,15 @@ line-height: 15px;
 
 @media (max-width : 500px){
     .main{
-        padding-top: 150px;
+        padding-top: 100px;
     }
     nav ul li button:hover{
         background: #000212;
         color: #fff;
         border-radius: 7px;
+    }
+    .navbar{
+        margin-top : 20px;
     }
     nav ul.nav-menu{
         flex-wrap: wrap;
