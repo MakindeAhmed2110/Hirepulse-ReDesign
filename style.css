@@ -826,15 +826,16 @@ line-height: 15px;
             padding: 5px 5vw;
         }
         .titles, .tools .head{
-          font-size: 6vw;   
-          line-height: 7vw;
+          font-size: 8vw;   
+          line-height: 9vw;
         }
         .titles br, .main p br, .tools p br{
             display: none;
         }
         .main p, .tools p{
-            font-size: 3vw;
-            padding-top: 20px;
+            font-size: 7vw;
+            padding-top: 0px;
+            line-height: 20px;
         }
         .main .forms{
             width: 300px;
